@@ -1,2 +1,2 @@
-1. level:
+1-level:
 https://kushnirdanil.github.io/D.Game/
